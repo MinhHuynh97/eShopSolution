@@ -1,9 +1,9 @@
-﻿using Solution.Data.Enum;
+﻿using eShopSolution.Data.Enum;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution.Data.Entities
+namespace eShopSolution.Data.Entities
 {
     public class Catelogy
     {
